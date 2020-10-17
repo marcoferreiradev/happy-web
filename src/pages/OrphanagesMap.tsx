@@ -43,7 +43,7 @@ function OrphanagesMap() {
 
       <Map
         center={[-23.4876283, -46.6539934]}
-        zoom={16}
+        zoom={15}
         style={{ width: "100%", height: "100%" }}
       >
         {/* <TileLayer url='https://a.tile.openstreetmap.org/{z}/{x}/{y}.png' /> */}
